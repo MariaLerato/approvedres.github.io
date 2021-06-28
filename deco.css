@@ -40,7 +40,7 @@ html {
     /* height: 100px; */
     height: 100%;
     padding-left: 2%;
-    object-fit: fill;
+    object-fit: cover;
 }
 
 .name {
